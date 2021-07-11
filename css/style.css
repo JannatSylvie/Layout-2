@@ -1,0 +1,43 @@
+.logo{
+	min-height: 50px;
+	background-color: pink;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.nav{
+	min-height: 25px;
+	background-color: plum;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.header{
+	min-height: 100px;
+	background-color: pink;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.wrapper{
+	overflow: hidden;
+}
+.sideBar{
+	min-height: 445px;
+	background-color: plum;
+	width: 32.6%;
+	float: left;
+	margin: 10px 10px 10px 0px;
+	text-align: center;
+}
+.bodyArea{
+	min-height: 445px;
+	background-color: plum;
+	width: 66.07%;
+	float: left;
+	margin: 10px 0px 10px 10px;
+	text-align: center;
+}
+.footer{
+	min-height: 25px;
+	background-color: pink;
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+}
