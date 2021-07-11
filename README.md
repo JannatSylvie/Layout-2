@@ -1,3 +1,3 @@
-# Layout2
+# Layout-2
 
 https://jannatsylvie.github.io/Layout2/
